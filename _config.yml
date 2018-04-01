@@ -1,3 +1,6 @@
 name: Our Great Adventures
 description: G&D stumbling their way together through this thing called life.
-paginate: 10
+paginate: 3
+plugins:
+  - jekyll-paginate
+paginate_path: "/blog/page:num/"
