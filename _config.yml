@@ -1,5 +1,11 @@
+# Description
 name: Our Great Adventures
+title: GDBlog - Our Great Adventures
 description: G&D stumbling their way together through this thing called life.
+url: "https://gdblog.github.io"
+baseurl: ""
+
+# Paginate features
 paginate: 3
 plugins:
   - jekyll-paginate
